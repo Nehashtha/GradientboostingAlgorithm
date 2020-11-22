@@ -1,1 +1,2 @@
 # GradientboostingAlgorithm
+Sequential Ensemble learning
